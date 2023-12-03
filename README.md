@@ -1,16 +1,39 @@
-# groceryshop
+# GROCERY_APP
+A Flutter application that allows users to order groceries online.
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+##  TABLE OF CONTENTS
 
-A few resources to get you started if this is your first Flutter project:
+- [Installation](#installation)
+- [Screenshots](#screenshots)
+- [Credits](#credits)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## INSTALLATION
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+git clone https://github.com/AmanKRoy/GROCERY_APP
+cd GROCERY_APP
+flutter pub get
+```
+
+## SCREENSHOTS
+
+### MAIN WINDOW
+
+
+
+
+
+| Intro Page | Home Bar | Cart |
+| --- | --- | --- |
+|  <img src="./assets/intro.png" alt="Screenshot 1" height=450>  | <img src="./assets/home.png" alt="Screenshot 2" height=450> | <img src="./assets/cart.png" alt="Screenshot 3" height=450> |
+
+
+## credits
+
+- [FLUTTER](https://flutter.dev/)
+- [DART](https://dart.dev/)
+- [VS CODE](https://code.visualstudio.com/)
+- [MITCH KOKO](https://www.youtube.com/watch?v=yLtpMqvMgdY)
+
