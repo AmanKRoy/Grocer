@@ -1,4 +1,4 @@
-# GROCERY_APP
+# GROCERIES_APP
 A Flutter application that allows users to order groceries online.
 
 
