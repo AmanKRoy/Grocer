@@ -30,7 +30,7 @@ flutter pub get
 |  <img src="./assets/intro.png" alt="Screenshot 1" height=450>  | <img src="./assets/home.png" alt="Screenshot 2" height=450> | <img src="./assets/cart.png" alt="Screenshot 3" height=450> |
 
 
-## credits
+## CREDITS
 
 - [FLUTTER](https://flutter.dev/)
 - [DART](https://dart.dev/)
