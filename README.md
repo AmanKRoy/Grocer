@@ -1,5 +1,5 @@
-# GROCERIES_APP
-A Flutter application that allows users to order groceries online.
+# GROCER
+Grocer is a user-friendly flutter based application that lets you effortlessly select and purchase groceries online.
 
 
 
