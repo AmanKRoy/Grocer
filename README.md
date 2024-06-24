@@ -12,7 +12,7 @@ Grocer is a user-friendly flutter based application that lets you effortlessly s
 ## INSTALLATION
 
 ```bash
-git clone https://github.com/AmanKRoy/GROCERY_APP
+git clone https://github.com/AmanKRoy/Grocer
 cd GROCERY_APP
 flutter pub get
 ```
