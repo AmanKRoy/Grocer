@@ -27,7 +27,7 @@ flutter pub get
 
 | Intro Page | Home Bar | Cart |
 | --- | --- | --- |
-|  <img src="./assets/intro.png" alt="Screenshot 1" height=450>  | <img src="./assets/home.png" alt="Screenshot 2" height=450> | <img src="./assets/cart.png" alt="Screenshot 3" height=450> |
+|  <img src="./lib/assets/intro.png" alt="Screenshot 1" height=450>  | <img src="./lib/assets/home.png" alt="Screenshot 2" height=450> | <img src="./lib/assets/cart.png" alt="Screenshot 3" height=450> |
 
 
 ## CREDITS
